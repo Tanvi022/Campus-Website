@@ -10,3 +10,4 @@ I have created frontend using commands
 I have implemented codes in app.js,index.html,and other files
 I have used sql command to create and view the contact details submitted in mysqlworkbench after the form is submitted
 I have integrated this website which shows a perfect blend of the technologies I have used 
+I am working on it more for further enhancements
