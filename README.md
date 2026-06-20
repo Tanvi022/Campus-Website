@@ -5,8 +5,8 @@ A MySQL database was then created to store application data. The database connec
 The React frontend communicates with the Express backend through API endpoints. When users submit data through the website, requests are sent to the backend, which processes the data, interacts with the MySQL database, and returns responses to the frontend. Database management, table creation, and query execution were performed using MySQL Workbench.
 
 I have utilized the database creation and then created server.js in backend using mysql connection to connect with the database of my contact details
-I have used backend commands to integrate
-I have used frontend using react@latest commands
-I have used codes in app.js,index.html,and other files
-I have used sql command to view the contact details submitted
+I have created backend commands to integrate
+I have created frontend using commands
+I have implemented codes in app.js,index.html,and other files
+I have used sql command to create and view the contact details submitted in mysqlworkbench after the form is submitted
 I have integrated this website which shows a perfect blend of the technologies I have used 
